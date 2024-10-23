@@ -21,6 +21,7 @@ To run this app locally, follow these steps:
   ```bash
 pip install -r requirements.txt
 3. **Run the app**:
+```bash
 ## Usage
  ```bash
 1. Open your web browser and go to `http://localhost:8000` (or the port your app specifies).
