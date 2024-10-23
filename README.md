@@ -20,6 +20,7 @@ To run this app locally, follow these steps:
 2. **Install the required packages**:
 ```bash
 pip install -r requirements.txt
+
 3. **Run the app**:
 ## Usage
  ```bash
