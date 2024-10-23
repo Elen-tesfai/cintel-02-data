@@ -18,10 +18,9 @@ To run this app locally, follow these steps:
    git clone https://github.com/yourusername/cintel-02-data.git
    cd cintel-02-data
 2. **Install the required packages**:
-  ```bash
+```bash
 pip install -r requirements.txt
 3. **Run the app**:
-```bash
 ## Usage
  ```bash
 1. Open your web browser and go to `http://localhost:8000` (or the port your app specifies).
