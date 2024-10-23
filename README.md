@@ -22,7 +22,7 @@ To run this app locally, follow these steps:
 pip install -r requirements.txt
 3. **Run the app**:
 ## Usage
- ```bash
+ 
 1. Open your web browser and go to `http://localhost:8000` (or the port your app specifies).
 2. Interact with the app to explore the penguin data.
  ```bash
