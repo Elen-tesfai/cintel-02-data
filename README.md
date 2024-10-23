@@ -17,7 +17,7 @@ To run this app locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/cintel-02-data.git
    cd cintel-02-data
-2. ## Install the required packages##:
+2. **Install the required packages**:
   ```bash
 pip install -r requirements.txt
 3. ## Run the app:
