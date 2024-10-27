@@ -1,6 +1,6 @@
 # cintel-02-data
 
-# Elen's Penguins Dataset Exploration
+# Elen's Palmer Penguin Dataset Exploration
 
 ## Penguin Data Shiny App
 
