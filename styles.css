@@ -1,0 +1,4 @@
+.main-header .logo {
+    font-size: 24px; /* Adjust the font size */
+    white-space: nowrap; /* Prevents title from wrapping */
+}
